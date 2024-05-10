@@ -1,0 +1,14 @@
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\bin\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.exe
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\bin\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.deps.json
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\bin\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.runtimeconfig.json
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\bin\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.dll
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\bin\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.pdb
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.AssemblyInfoInputs.cache
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.AssemblyInfo.cs
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.dll
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\refint\dzisiaj_SPD_jutro_listonosz_w_DPD.dll
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.pdb
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\dzisiaj_SPD_jutro_listonosz_w_DPD.genruntimeconfig.cache
+D:\Studia\Semestr 6\SPD\dzisiaj_SPD_jutro_listonosz_w_DPD\obj\Release\net8.0\ref\dzisiaj_SPD_jutro_listonosz_w_DPD.dll

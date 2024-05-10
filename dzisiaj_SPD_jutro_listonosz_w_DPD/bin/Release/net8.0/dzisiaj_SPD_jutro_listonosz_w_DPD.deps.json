@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dzisiaj_SPD_jutro_listonosz_w_DPD/1.0.0": {
+        "runtime": {
+          "dzisiaj_SPD_jutro_listonosz_w_DPD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dzisiaj_SPD_jutro_listonosz_w_DPD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
